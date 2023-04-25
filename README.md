@@ -38,8 +38,9 @@
 </table>
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### 📊 Contribution Stats
+
+<img alt="Efrun's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=cptmfs&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 
 ---
 [![](https://visitcount.itsvg.in/api?id=cptmfs&icon=0&color=6)](https://visitcount.itsvg.in)
