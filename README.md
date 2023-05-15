@@ -4,7 +4,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammed-ferit-simsek-119550217) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cptmfs) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/cptmfs) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cptmfs) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@feritkaptan2680) 
@@ -46,7 +46,7 @@
 
 ### 📊 Contribution Stats
 
-<img alt="Efrun's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=cptmfs&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+<img alt="Cptmfs's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=cptmfs&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 
 ---
 [![](https://visitcount.itsvg.in/api?id=cptmfs&icon=0&color=6)](https://visitcount.itsvg.in)
