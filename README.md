@@ -1,6 +1,6 @@
 # 💫 About Me:
 👋🏻 Hi I'am FeritKaptan.<br>
-💻 I currently learning software.
+💻 I currently working a Software Developer.
 
 
 ## 🌐 Socials:
